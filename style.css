@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: rgb(83, 75, 75);
+  }
+  p {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    color: rgb(83, 75, 75);
+  }
+  a {
+    color: rgb(39, 234, 0);
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+}
+
+#firstpara {
+    color:rgb(192, 116, 24);
+    font-weight: bold;
+    font-size: 52px;
+}
