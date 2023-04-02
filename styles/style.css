@@ -1,17 +1,5 @@
 body {
   margin: 50px;
-  color: rgb(83, 75, 75);
-}
-
-
-a {
-  color: rgb(39, 234, 0);
-}
-
-#firstpara {
-  color: rgb(192, 116, 24);
-  font-weight: bold;
-  font-size: 52px;
 }
 
 img {
@@ -19,3 +7,10 @@ img {
   height: 200px;
   border-radius: 100px;
 }
+
+#firstpara {
+  color: rgb(170, 96, 83);
+  font-weight: bold;
+  font-size: 52px;
+}
+

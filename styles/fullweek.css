@@ -1,12 +1,26 @@
 h1 {
-    color: greenyellow;
-}
-
-p {
-    color: white;
+    font-size: 48px;
+    color: rgb(71, 62, 62);
 }
 
 a {
-    color: yellow;
+    background-color: rgb(39, 234, 0);
+    color: white;
+    border-radius: 4px;
+    font-size: 18px;
 }
 
+a:hover {
+    background-color: rgb(21, 129, 0);
+    text-decoration: none;
+}
+
+ol {
+    list-style: none;
+}
+
+li {
+    margin: 25px;
+    background-color: rgb(233, 136, 124);
+    border-radius: 6px;
+}
