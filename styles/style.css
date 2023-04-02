@@ -1,0 +1,21 @@
+body {
+  margin: 50px;
+  color: rgb(83, 75, 75);
+}
+
+
+a {
+  color: rgb(39, 234, 0);
+}
+
+#firstpara {
+  color: rgb(192, 116, 24);
+  font-weight: bold;
+  font-size: 52px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}

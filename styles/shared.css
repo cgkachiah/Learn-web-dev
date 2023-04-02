@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: rgb(98, 147, 255);
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
